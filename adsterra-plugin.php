@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Adsterra Publisher Dashboard
 	Description: Monitor your revenue and impressions for your Adsterra Ad Network Publisher account, from your Wordpress admin dashboard.
-	Version: 1.0.2
+	Version: 1.0.3
 	Tested: 5.4.2
 	Requires at least: 5.4.2
 	Author: XavierB
